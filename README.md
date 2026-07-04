@@ -24,38 +24,4 @@ python-coding-journey
 
 ---
 
-## 🎯 Goals
-
-- Strengthen Python fundamentals.
-- Solve LeetCode problems consistently.
-- Complete the FreeCodeCamp Python curriculum.
-- Improve problem-solving skills.
-- Build a strong GitHub portfolio.
-
----
-
-## 📈 Progress
-
-### LeetCode
-
-- Easy: 0
-- Medium: 0
-- Hard: 0
-
-### FreeCodeCamp
-
-- Python Basics ⏳
-- Projects ⏳
-
----
-
-## 🚀 Current Focus
-
-- Python Fundamentals
-- Loops
-- Conditional Statements
-- Functions
-
----
-
-⭐ Consistency over perfection.
+#

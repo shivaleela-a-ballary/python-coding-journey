@@ -64,17 +64,17 @@ Next Unlock ➜ Python Explorer 🚀
 
 ## 🧰 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake *(Optional)*
+## 🐍 Contribution Snake
 
-> Replace `YOUR_USERNAME` with your GitHub username.
+> *The snake appears after you set up the GitHub Action.*
 
-![snake gif](https://github.com/shivaleela-a-ballary/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shivaleela-a-ballary/shivaleela-a-ballary/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

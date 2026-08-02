@@ -70,14 +70,6 @@ Next Unlock ➜ Python Explorer 🚀
 
 ---
 
-## 🐍 Contribution Snake
-
-> *The snake appears after you set up the GitHub Action.*
-
-![snake gif](https://github.com/shivaleela-a-ballary/shivaleela-a-ballary/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <div align="center">
 
 ### 🐛 Developer Wisdom

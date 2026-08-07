@@ -57,7 +57,7 @@ Rank : Python Apprentice
 XP
 ██████░░░░ 60%
 
-Next Unlock ➜ Python Explorer 🚀
+Next Unlock ➜ Python Explorer 
 ```
 
 ---
